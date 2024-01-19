@@ -20,7 +20,7 @@ VORON V2.6514 Backup from SeaSpotter (Discord)
 
 # Software and Config
 - [Git backup](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F)
-- [SB2040 Can Install]([https://github.com/cruiten/Voron-Related/tree/main/CANbus/Documentation](https://mellow-3d.github.io/fly_sb2040_v2_canboot_can.html))
+- [SB2040 Can Install](https://mellow-3d.github.io/fly_sb2040_v2_canboot_can.html)
 - [Air Filter Timer](https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg)
 - [A Better Print_start](https://github.com/jontek2/A-better-print_start-macro)
 - [Clean Nozzle](https://github.com/VoronDesign/VoronUsers/blob/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber/Macros/nozzle_scrub.cfg)
